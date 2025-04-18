@@ -2,6 +2,8 @@
 ### What's this?
 We provide sso.tax-free single sign-on implementations for open source projects.
 
+[Github Link (github.com/withsso)](https://github.com/withsso)
+
 ### Why?
 We completely agree with the reasoning on [sso.tax](https://sso.tax) - SSO is a baseline security feature that should not be restricted to a "Contact us for pricing" Enterprise tier.
 In the cybersecurity landscape we're currently in, adding OpenID Connect as an SSO method to your app provides a set of baseline security features where the individual user can then connect their own IDP, and implement multi-factor authentication in hundreds of different ways, shapes or forms. 
