@@ -25,5 +25,8 @@ If your target audience is the open source space, this is likely going to be a l
 Everything happens in public. All code and container builds happen within Github actions, where the logs, checksums and information can be viewed by anyone using the application. 
 Where required, we use OSSign (https://ossign.org) to sign the executables to make them runnable on Windows, Mac or other devices.
 
+### I've added SSO to [oss project], can you help us with hosting and maintenance?
+If the license for the project permits, yes. Open an issue in [this repository](https://github.com/withsso/.github) with the issue template "Project Request"
+
 ### Who are we?
 We're a team of developers and self-hosters believing in a more secure open source space.
